@@ -1,4 +1,4 @@
-# Exploring Red Tape in Vietnam
+# Exploring Red Tape in Vietnam (Under construction)
 
 This project is a reboot of an earlier academic paper from my a statistics class for my masters program in International
 Economics at the University of California, San Diego. Instead of Stata, I will use R to assess the effect of bureaucracy 
