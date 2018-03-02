@@ -25,5 +25,7 @@ $ source activate huyenproj
 $ jupyter notebook
 ```
 
+## License
 
+This project is released under the MIT License.
 
