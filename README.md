@@ -8,9 +8,9 @@ on new business registration in Vietnam.
 
 In 2009, Vietnam removed all district-level councils in ten provinces, specifically chosen as a quasi-random sampling, 
 in order to statistically assess the effects of recentralization on service provision and corruption. 
-However, removing an extra step in the hierarchy of specific provinces also simplified new business registration in those areas, 
-cutting new business registration times by 2.5 days, suggesting that further recentralization of power to the provincial level 
-may improve the efficiency of bureaucracy in dealing with business startups.
+However, removing an extra step in the hierarchy of specific provinces could also simplify new business registration in those areas, 
+potentially cutting new business registration times, which would suggest that further recentralization of power to the provincial level 
+might improve the efficiency of bureaucracy in dealing with business startups.
 
 ## Installation
 
