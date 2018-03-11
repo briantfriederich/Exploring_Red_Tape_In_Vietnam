@@ -1,4 +1,4 @@
-# Exploring Red Tape in Vietnam (Under construction)
+# Exploring Red Tape in Vietnam
 
 This project is a reboot of an earlier academic paper from my a statistics class for my masters program in International
 Economics at the University of California, San Diego. Instead of Stata, I used R to assess the effect of bureaucracy 
@@ -15,7 +15,7 @@ Then open the Jupyter Notebook.
 
 ```
 $ git clone https://github.com/briantfriederich/Exploring_red_tape_in_Vietnam
-$ cd ~/Exploring_red_tape_in_Vietnam-master
+$ cd ~/Exploring_red_tape_in_Vietnam
 $ conda create -n huyenproj r-essentials r-base
 $ source activate huyenproj
 $ jupyter notebook
